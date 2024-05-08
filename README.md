@@ -5,7 +5,7 @@
 
 ## Contact me:
 <ul>
-    <li><a href='https://facebook.com/raviyanto'> Follow me on Faceobook.</li>
+    <li><a href='https://facebook.com/raviyanto'> Follow me on Facebook.</li>
     <li><a href='https://sebuana.com'> Website.</li>
     <li><a href='mailto:raviyanto@gmail.com'> E-mail </li>
 </ul>
